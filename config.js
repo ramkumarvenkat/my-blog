@@ -13,19 +13,23 @@ module.exports = {
   menu: [
     {
       label: 'Blog',
-      path: '/'
+      path: '/',
+      newTab: false
     },
     {
       label: 'Newsletter',
-      path: '/'
+      path: 'https://ramkumarvenkat.substack.com/p/coming-soon?r=cpz6r&utm_campaign=post&utm_medium=web&utm_source=copy',
+      newTab: true
     },
     {
       label: 'About',
-      path: '/pages/about'
+      path: '/pages/about',
+      newTab: false
     },
     {
       label: 'Contact',
-      path: '/pages/contacts'
+      path: '/pages/contacts',
+      newTab: false
     }
   ],
   author: {

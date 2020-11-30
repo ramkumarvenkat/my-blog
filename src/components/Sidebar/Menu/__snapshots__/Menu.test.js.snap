@@ -13,6 +13,7 @@ exports[`Menu renders correctly 1`] = `
       <a
         className="menu__list-item-link"
         href="/#0/"
+        target=""
       >
         Item 0
       </a>
@@ -23,6 +24,7 @@ exports[`Menu renders correctly 1`] = `
       <a
         className="menu__list-item-link"
         href="/#1/"
+        target="_blank"
       >
         Item 1
       </a>

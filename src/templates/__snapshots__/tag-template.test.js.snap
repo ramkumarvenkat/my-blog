@@ -52,6 +52,7 @@ exports[`TagTemplate renders correctly 1`] = `
             <a
               className="menu__list-item-link"
               href="/test/1/"
+              target=""
             >
               Test label 1
             </a>
@@ -62,6 +63,7 @@ exports[`TagTemplate renders correctly 1`] = `
             <a
               className="menu__list-item-link"
               href="/test/2/"
+              target=""
             >
               Test label 2
             </a>
@@ -72,6 +74,7 @@ exports[`TagTemplate renders correctly 1`] = `
             <a
               className="menu__list-item-link"
               href="/test/3/"
+              target=""
             >
               Test label 3
             </a>

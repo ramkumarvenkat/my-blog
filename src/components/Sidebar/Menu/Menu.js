@@ -6,8 +6,9 @@ import styles from './Menu.module.scss';
 type Props = {
   menu: {
     label: string,
-    path: string
-  }[]
+    path: string,
+    newTab?: boolean,
+  }[],
 };
 
 const Menu = ({ menu }: Props) => (
@@ -17,6 +18,7 @@ const Menu = ({ menu }: Props) => (
         <li className={styles['menu__list-item']} key={item.path}>
           <Link
             to={item.path}
+            target={item.newTab === true ? '_blank' : ''}
             className={styles['menu__list-item-link']}
             activeClassName={styles['menu__list-item-link--active']}
           >
