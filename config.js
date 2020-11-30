@@ -12,22 +12,26 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Newsletter',
+      path: '/'
+    },
+    {
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Ramkumar Venkataraman',
     photo: '/photo.jpg',
-    bio: 'Engineer | Product | Investor | Startups',
+    bio: 'Engineer | Product | Investor | Startups | Writer | Remote',
     contacts: {
       email: 'ramkumar.venkat@gmail.com',
       facebook: '',
