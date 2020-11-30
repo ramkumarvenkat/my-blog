@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ramkumarvenkat.xyz',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Personal website of Ramkumar',
+  subtitle: 'Musings on business, engineering and life',
+  copyright: '© Ramkumar Venkataraman',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'G-6H7CEJVSB3',
   useKatex: false,
   menu: [
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ramkumar Venkataraman',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Engineer | Product | Investor | Startups',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'ramkumar.venkat@gmail.com',
+      facebook: '',
+      telegram: 'Ramthemaniac',
+      twitter: 'Ramthemaniac',
+      github: 'ramkumarvenkat',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'ramkumar-venkataraman-19202014',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
