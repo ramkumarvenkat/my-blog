@@ -3,7 +3,7 @@ template: post
 title: The mind-heart conundrum
 slug: mind-heart
 socialImage: https://www.cardinalinnovations.org/getmedia/ad93a3e0-32bc-4fd9-ad41-e1a5ba77acc0/The-Mind-Heart-Connection.jpg
-draft: true
+draft: false
 date: 2021-04-02T11:13:46.445Z
 description: A short blurb on how to resolve conflicts
 category: Empathy
