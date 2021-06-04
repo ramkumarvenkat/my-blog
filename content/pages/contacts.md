@@ -2,9 +2,9 @@
 template: page
 title: Contact
 slug: contacts
-socialImage: /media/image-2.jpg
+socialImage: /media/ramkumarv.jpg
 draft: false
 ---
-I am open to collaborating on bootstrapping products and teams. I can also help with the technical architecture, engineering and delivery. 
+I am open to collaborating on bootstrapping products and teams. I can also advise on technical architecture, engineering, and product. 
 
-Please message me [@Ramthemaniac](http://twitter.com/Ramthemaniac) for faster replies!
+Please email me for faster replies! Alternatively, you can schedule a call on my [calendar](https://calendly.com/ramkumarvenkat/30min).
