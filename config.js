@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://ramkumarvenkat.xyz',
   pathPrefix: '/',
-  title: 'Personal website of Ramkumar',
+  title: 'Ramkumar Venkataraman',
   subtitle: 'Musings on business, engineering and life',
   copyright: '© Ramkumar Venkataraman',
   disqusShortname: '',
@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Ramkumar Venkataraman',
     photo: '/photo.jpg',
-    bio: 'Engineer | Product | Investor | Startups | Writer | Remote',
+    bio: 'Founder | Engineer | Product | Investor | Startups | Pro bono consulting | Writer',
     contacts: {
       email: 'ramkumar.venkat@gmail.com',
       facebook: '',
@@ -50,9 +50,10 @@ module.exports = {
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'UC4bzlZQ5_x6BghCLcWV2bVg',
       soundcloud: '',
       medium: '',
+      stackoverflow: '5028275'
     }
   }
 };
