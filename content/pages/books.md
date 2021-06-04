@@ -6,19 +6,16 @@ socialImage: /media/image-1.jpg
 draft: false
 ---
 # In progress
-
 1. TB12 Method
 2. Active Baby, Healthy Brain: 135 Fun Exercises and Activities to Maximize Your Child's Brain Development from Birth Through Age 5
 
 # Unfinished
-
 1. Edison
 2. Them
 3. Fifteen Decisive Battles of the World: From Marathon to Waterloo
 4. Stranger in a strange land
 
 # Completed
-
 * 10% happier
 * 12 rules for life
 * 21 lessons for the 21st century
