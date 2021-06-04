@@ -7,4 +7,6 @@ draft: false
 ---
 I am open to collaborating on bootstrapping products and teams. I can also advise on technical architecture, engineering, and product. 
 
-Please email me for faster replies! Alternatively, you can schedule a call on my [calendar](https://calendly.com/ramkumarvenkat/30min).
+* If you're a founder/investor/leader and you find me interesting, I would be honored to talk to you. Just send me an [email](mailto:ramkumar.venkat@gmail.com) and I will get back as soon as possible
+* If you're a recruiter, please reach out to me via LinkedIn
+* If you just want to connect with me or have any asks, LinkedIn would be better
