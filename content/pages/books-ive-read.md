@@ -1,6 +1,6 @@
 ---
 template: page
-title: Books I've read
+title: Books
 slug: books
 socialImage: /media/image-1.jpg
 draft: true
