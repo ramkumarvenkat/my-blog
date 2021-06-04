@@ -56,6 +56,9 @@ const getIcon = (name: string) => {
     case 'stackoverflow':
       icon = ICONS.STACKOVERFLOW;
       break;
+    case 'substack':
+      icon = ICONS.SUBSTACK;
+      break;
     default:
       icon = {};
       break;

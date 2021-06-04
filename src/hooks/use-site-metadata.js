@@ -26,6 +26,7 @@ const useSiteMetadata = () => {
                 gitlab
                 weibo
                 codepen
+                substack
                 youtube
                 soundcloud
                 medium

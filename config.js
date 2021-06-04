@@ -32,15 +32,15 @@ module.exports = {
       newTab: false
     },
     {
-      label: 'Newsletter',
-      path: 'https://ramkumarvenkat.substack.com/p/coming-soon?r=cpz6r&utm_campaign=post&utm_medium=web&utm_source=copy',
-      newTab: true
+      label: 'Books',
+      path: '/pages/books',
+      newTab: false
     },
   ],
   author: {
     name: 'Ramkumar Venkataraman',
     photo: '/photo.jpg',
-    bio: 'Founder | Engineer | Product | Investor | Pro bono consulting | Writer',
+    bio: 'Founder | Engineer | Product | Investor | Pro bono consulting',
     contacts: {
       email: 'ramkumar.venkat@gmail.com',
       facebook: '',
@@ -58,7 +58,8 @@ module.exports = {
       youtube: 'UC4bzlZQ5_x6BghCLcWV2bVg',
       soundcloud: '',
       medium: '',
-      stackoverflow: '5028275'
+      stackoverflow: '5028275',
+      substack: 'ramkumarvenkat'
     }
   }
 };
