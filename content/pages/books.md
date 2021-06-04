@@ -3,7 +3,7 @@ template: page
 title: Books
 slug: books
 socialImage: /media/image-1.jpg
-draft: true
+draft: false
 ---
 # In progress
 
