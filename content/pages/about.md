@@ -11,6 +11,7 @@ draft: false
 * [Here](https://www.notion.so/Ramkumar-Venkataraman-0eab07d8c67141c885cee83bb1c91773) is a detailed version of my work (including some of my spectacular failures)
 * Raised in India, worked in Singapore for a while
 * Used to spend a lot of my free time reading [books](https://www.ramkumarvenkat.xyz/pages/books) across philosophy, business, history, science, astrophysics, and productivity. Currently, a part-time babysitter who reads books on parenting, influence, and incentives
+* [My utopian vision for the world](https://www.ramkumarvenkat.xyz/posts/vision)
 
 # Current Work
 
