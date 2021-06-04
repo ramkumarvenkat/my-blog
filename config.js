@@ -12,6 +12,21 @@ module.exports = {
   useKatex: false,
   menu: [
     {
+      label: 'About',
+      path: '/pages/about',
+      newTab: false
+    },
+    {
+      label: 'Contact',
+      path: '/pages/contacts',
+      newTab: false
+    },
+    {
+      label: 'Work / CV',
+      path: 'https://www.notion.so/Ramkumar-Venkataraman-0eab07d8c67141c885cee83bb1c91773',
+      newTab: true
+    },
+    {
       label: 'Blog',
       path: '/',
       newTab: false
@@ -21,21 +36,11 @@ module.exports = {
       path: 'https://ramkumarvenkat.substack.com/p/coming-soon?r=cpz6r&utm_campaign=post&utm_medium=web&utm_source=copy',
       newTab: true
     },
-    {
-      label: 'About',
-      path: '/pages/about',
-      newTab: false
-    },
-    {
-      label: 'Contact',
-      path: '/pages/contacts',
-      newTab: false
-    }
   ],
   author: {
     name: 'Ramkumar Venkataraman',
     photo: '/photo.jpg',
-    bio: 'Founder | Engineer | Product | Investor | Startups | Pro bono consulting | Writer',
+    bio: 'Founder | Engineer | Product | Investor | Pro bono consulting | Writer',
     contacts: {
       email: 'ramkumar.venkat@gmail.com',
       facebook: '',
