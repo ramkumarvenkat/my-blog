@@ -99,6 +99,9 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-netlify-cms-paths',
+    },
+    {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
