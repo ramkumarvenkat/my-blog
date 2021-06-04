@@ -1,21 +1,36 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
-template: "post"
+template: post
+title: My utopian vision for the world where my son grows up
+slug: vision
+socialImage: /media/image-0.jpg
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+date: 2020-12-30T23:46:37.121Z
+description: A short blurb on what I ideally expect to see in the world for my son
+category: Vision
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/image-2.jpg"
+  - Handwriting
+  - Learning to write
 ---
+I would only want the following 3 to be democratized (in the order):
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+1. Health
+2. Knowledge
+3. Wealth
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+# Health
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+A world where quality healthcare is easily accessible. I've had the sad privilege to watch 2 of the people I loved not make it in this world. My grandmother first and then a stillborn. Poor decision-making from specialists and lack of quality accessible healthcare. 
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+# Knowledge
+
+Some of the best innovations in private schooling are happening as we speak (ala Synthesis, Prisma, etc.) I want a world where quality education fostered in developed countries, be made accessible across the world. Internet and distribution FTW.
+
+My schooling was all about rote learning. I would never question the things presented nor take the risks to try something bold. I was taught to blindly believe in traditions without seeking the truth. So the kind of education I want to see for my son is one that fosters independent thinking.
+
+# Wealth
+
+A world where no one lives below the poverty line. 
+
+A world where entrepreneurs and folks with skin-in-the-game are blessed with sufficient wealth that they build and invest in companies that make healthcare, knowledge, and wealth accessible. And the flywheel continues.
+
+I still remember my early childhood days living in a cramped 300 sq. ft apartment, studying hard, and watching my parents sweat. We made it work, but it was hard. But this was a lot easier compared to a large percentage of the population in India. This has to change and people have the basic right to live a sustainable, healthy, and a decent life
