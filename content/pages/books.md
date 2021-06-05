@@ -6,26 +6,28 @@ socialImage: /media/image-1.jpg
 draft: false
 ---
 # In progress
+
 1. TB12 Method
 2. Active Baby, Healthy Brain: 135 Fun Exercises and Activities to Maximize Your Child's Brain Development from Birth Through Age 5
+3. The Wonder Weeks
 
 # Completed
+
 * 10% happier
 * 12 rules for life
 * 21 lessons for the 21st century
 * 30 Lessons for Living: Tried and True Advice from the Wisest Americans
-* 4 hour chef
-* 4 hour work week
+* 4-hour chef
+* 4-hour work-week
 * 7 habits of highly effective people
 * 7 principles Gottman 
 * 7 strategies to navigate the noise
 * A beginner's guide to the end
 * A mind at play
-* A new earth : awakening to your life's purpose
+* A new earth: awakening to your life's purpose
 * A short history of nearly everything
 * Acres of diamonds
 * Act like a leader, think like a leader
-* Active baby, healthy brain
 * Antifragile: Things That Gain From Disorder by Nassim Taleb
 * Anything you want
 * As a Man Thinketh by James Allen
@@ -39,7 +41,7 @@ draft: false
 * Bobby Fischer teaches chess
 * Brain Rules: John Medina
 * Brain rules for baby
-* Brief answers to the big questions
+* Brief Answers to the big questions
 * But what if we're wrong
 * Conspiracy
 * Creativity Inc
@@ -77,7 +79,7 @@ draft: false
 * Grit
 * Growth mindset
 * Guns germs and Steel
-* Homo deus
+* Homo Deus
 * How luck happens
 * How Proust can change your life
 * How to fail at almost everything and still win big
@@ -110,7 +112,7 @@ draft: false
 * Never split the difference
 * Nudge
 * One minute manager
-* Option B: sheryl sandberg
+* Option B
 * Outliers
 * Peak - secrets from the new science of expertise
 * Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success
@@ -129,12 +131,12 @@ draft: false
 * Sapiens
 * Secret letters of the monk who sold his Ferrari
 * Seeking wisdom
-* Self reliance
+* Self-reliance
 * Shadow divers
 * Shape up
 * Siddhartha
 * Skin in the Game: Hidden Asymmetries in Daily Life
-* So good, they cant ignore you
+* So good, they can't ignore you
 * Solve for happy
 * Something deeply hidden
 * Start with why
@@ -145,11 +147,10 @@ draft: false
 * Surely you are joking, Mr. Feynman
 * Switch: How To Change Things When Change Is Hard
 * Talking to strangers
-* TB12 method
 * The 10x Rule
 * The 33 Strategies of War by Robert Greene
 * The 48 Laws of Power by Robert Greene
-* The 5 second rule
+* The 5-second rule
 * The 50th law
 * The age of the infovore
 * The art of doing science and engineering: learning to learn
@@ -171,16 +172,16 @@ draft: false
 * The complacent class
 * The denial of death
 * The dichotomy of leadership
-* The dip by Seth Godin
+* The Dip by Seth Godin
 * The effective executive
 * The elephant in the brain
 * The female brain
 * The four tendencies
-* The go giver
+* The go-giver
 * The happiest baby on the block
 * The happiest toddler on the block
 * The hero with a thousand faces
-* The Hitchhiker's guide to the galaxy
+* The Hitchhiker's Guide to the galaxy
 * The inevitable
 * The inner game of tennis
 * The intelligence trap
@@ -200,7 +201,7 @@ draft: false
 * The power of myth
 * The power of no
 * The power of positive thinking
-* The prophet by Khalil Gibran
+* The Prophet by Khalil Gibran
 * The proximity principle
 * The purple cow
 * The road to character
@@ -211,14 +212,14 @@ draft: false
 * The Talent Code
 * The untethered soul
 * The way of the superior man
-* The whole brain child
+* The whole brain-child
 * The wonder weeks
 * The year of magical thinking
 * Think and grow rich
-* Thinking in bets
+* Thinking in Bets
 * Think Like a Freak – Stephen J. Dubner, Steven Levitt
 * This is water
-* Thrive by ariana huffington
+* Thrive
 * Tribe by Sebastian Junger
 * Tribes by Seth Godin
 * Tools of titans
@@ -241,6 +242,7 @@ draft: false
 * Zero to one
 
 # Unfinished
+
 1. Edison
 2. Them
 3. Fifteen Decisive Battles of the World: From Marathon to Waterloo
