@@ -20,7 +20,7 @@ draft: false
 * 4-hour chef
 * 4-hour work-week
 * 7 habits of highly effective people
-* 7 principles Gottman 
+* 7 principles of making marriage work 
 * 7 strategies to navigate the noise
 * A beginner's guide to the end
 * A mind at play
