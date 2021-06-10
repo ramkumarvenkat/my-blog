@@ -16,7 +16,7 @@ draft: false
 # Current Work
 
 * Founding engineer & product: Multi-player savings app for consumers in the US - think of anime+influencers+brands-meets-neobank. I am helping build the MVP, product strategy, and tech architecture. Status: raised seed funding; looking for full-stack engineers, game designers/engineers/product managers, and social/growth marketing
-* Previously, Co-founder, Product - Bridg, a new financing model for startups with recurring revenues. SaaS companies in EMEA can trade their MRRs and get cash worth their annual value upfront.
+* Previously, Product - Bridg, a new financing model for startups with recurring revenues. SaaS companies in EMEA can trade their MRRs and get cash worth their annual value upfront.
 
 # Offers
 
