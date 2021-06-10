@@ -15,8 +15,9 @@ draft: false
 
 # Current Work
 
-* Co-founder/CTO - [Bridg](https://www.bridg.app/), a new financing model for startups with recurring revenues. The gist: SaaS companies in EMEA can trade their MRRs and get cash worth their annual value upfront. No equity dilution, high-interest VC debt, and discounting the annual plans. **Status**: Early customers signed up; looking to acquire more customers, fundraise, setup founding team of engineers, marketing & sales
 * Pro bono consulting: Multi-player savings app for consumers in the US: building an MVP, help with product strategy, and tech architecture. Status: raised seed funding; looking for full-stack engineers, game designers/engineers, and social/growth marketing
+
+* Help build Bridg, a new financing model for startups with recurring revenues. The gist: SaaS companies in EMEA can trade their MRRs and get cash worth their annual value upfront.
 
 # Offers
 
