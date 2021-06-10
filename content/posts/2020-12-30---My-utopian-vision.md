@@ -32,4 +32,4 @@ A world where no one lives below the poverty line.
 
 A world where entrepreneurs and folks with skin-in-the-game are blessed with sufficient wealth that they build and invest in companies that make healthcare, knowledge, and wealth accessible. And the flywheel continues.
 
-I still remember my early childhood days living in a cramped 300 sq. ft apartment, studying hard, and watching my parents sweat. But we were far better than a large percentage of the population in India. This has to change and people have the basic right to live a sustainable and healthy life
+I still remember my early childhood days living in a cramped 300 sq. ft apartment, studying hard, and watching my parents sweat. But we were far better than a large percentage of the population in India. This has to change and people have the basic right to live a sustainable and a healthy life
