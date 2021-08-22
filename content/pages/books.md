@@ -7,7 +7,7 @@ draft: false
 ---
 # In progress
 
-1. TB12 Method
+1. Mean genes
 2. Active Baby, Healthy Brain: 135 Fun Exercises and Activities to Maximize Your Child's Brain Development from Birth Through Age 5
 3. The Wonder Weeks
 
@@ -210,6 +210,7 @@ draft: false
 * The startup of you
 * The subtle art of not giving a flick
 * The Talent Code
+* The TB12 Method
 * The untethered soul
 * The way of the superior man
 * The whole brain-child
