@@ -7,7 +7,7 @@ draft: false
 ---
 # In progress
 
-1. Mean genes
+1. Everything is f*cked
 2. Active Baby, Healthy Brain: 135 Fun Exercises and Activities to Maximize Your Child's Brain Development from Birth Through Age 5
 3. The Wonder Weeks
 
@@ -105,6 +105,7 @@ draft: false
 * Make time
 * Man's search for meaning
 * Mastery by George Leonard
+* Mean genes
 * Meditations by Marcus Aurelius
 * Men are from Mars, Women are from Venus
 * Millionaire next door
