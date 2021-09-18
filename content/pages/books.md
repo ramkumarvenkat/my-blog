@@ -7,7 +7,7 @@ draft: false
 ---
 # In progress
 
-1. Everything is f*cked
+1. 
 2. Active Baby, Healthy Brain: 135 Fun Exercises and Activities to Maximize Your Child's Brain Development from Birth Through Age 5
 3. The Wonder Weeks
 
@@ -62,6 +62,7 @@ draft: false
 * Enlightenment now
 * Essentialism - the disciplined pursuit of less
 * Everything happens for a reason and other lies I have loved
+* Everything is f*cked
 * Everything is obvious
 * Exploring the world of lucid dreaming
 * Extreme ownership
@@ -164,6 +165,7 @@ draft: false
 * The Art of Thinking Clearly – Rolf Dobelli
 * The art of war
 * The beginning of infinity
+* The Bed of Procrustes: Philosophical and Practical Aphorisms
 * The Big Leap – Gay Hendricks
 * The black swan
 * The body
