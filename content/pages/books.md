@@ -7,7 +7,7 @@ draft: false
 ---
 # In progress
 
-1. Win bigly
+1. Sum: Forty Tales from the Afterlives
 2. Active Baby, Healthy Brain: 135 Fun Exercises and Activities to Maximize Your Child's Brain Development from Birth Through Age 5
 3. The Wonder Weeks
 
@@ -214,6 +214,7 @@ draft: false
 * The subtle art of not giving a flick
 * The Talent Code
 * The TB12 Method
+* The Undoing Project: A Friendship That Changed Our Minds
 * The untethered soul
 * The way of the superior man
 * The whole brain-child
@@ -238,6 +239,7 @@ draft: false
 * What's going on in there
 * When
 * When breath becomes air
+* Win bigly
 * Wishes fulfilled
 * Yes to life
 * You are a badass
